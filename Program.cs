@@ -12,6 +12,7 @@ namespace visual_git_example
         {
             Console.WriteLine("hola");
             Console.WriteLine("1");
+            Console.WriteLine("2");
             Console.Read();
 
         }
