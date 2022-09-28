@@ -11,6 +11,7 @@ namespace visual_git_example
         static void Main(string[] args)
         {
             Console.WriteLine("hola");
+            Console.WriteLine("1");
             Console.Read();
 
         }
